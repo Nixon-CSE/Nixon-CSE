@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D0D,100:39FF14&height=220&section=header&text=NIXON.EXE&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%7C%20Web3%20%7C%20AI%20Systems%20Engineer&descAlignY=52&descSize=20&descColor=FF2E9F" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D0D,100:39FF14&height=220&section=header&text=NIXON.EXE&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%7C%20Blockchain%20%7C%20AI%20Systems%20Engineer&descAlignY=52&descSize=20&descColor=FF2E9F" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=60&background=000000&lines=%3E+booting+Nixon-CSE.exe...;%3E+loading+blockchain+modules...;%3E+loading+AI+agents...;%3E+SYSTEM+READY.+welcome+%F0%9F%91%8B" alt="Typing SVG" />
 
@@ -15,25 +15,61 @@
 
 <br/>
 
+<div align="center">
+<table>
+<tr>
+<td valign="top">
+
+<pre>
+┌───────────────────────────┐
+│ ○ ○ ○     downloading.exe │
+├───────────────────────────┤
+│ loading skills.exe...     │
+│ [██████████████░░░░] 82%  │
+└───────────────────────────┘
+</pre>
+
+</td>
+<td valign="top">
+
+<pre>
+┌───────────────────────────┐
+│ ○ ○ ○        system404    │
+├───────────────────────────┤
+│           404             │
+│   sleep_schedule.exe      │
+│      not found            │
+│      [ Go home ]          │
+└───────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│  ●  ●  ●              nixon@github ~ /about-me                       │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                        │
-│  $ whoami                                                             │
-│  > Nixon Immanuel Motha                                               │
-│  > BE Computer Science @ Loyola-ICAM College of Engineering (2024–)   │
-│                                                                        │
-│  $ cat mission.txt                                                    │
-│  > Building autonomous AI agent swarms and tamper-proof dApps         │
-│  > that run on-chain without asking permission.                       │
-│                                                                        │
-│  $ ps -ef | grep "currently"                                          │
-│  > Campus Ambassador @ HackerRank  — running                          │
-│  > Shipping AI x Web3 side-projects — running                         │
-│  > Debugging smart contracts at 2 AM — running                        │
-│                                                                        │
-└──────────────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════╗
+║ ■  File   Edit   Options   Help                            □   X   ║
+╠════════════════════════════════════════════════════════════════════╣
+║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║
+║                                                                   ↑ ║
+║  $ whoami                                                           ║
+║  > Nixon Immanuel Motha                                             ║
+║  > BE Computer Science @ Loyola-ICAM College of Engineering (2024–) ║
+║                                                                       ║
+║  $ cat mission.txt                                                   ║
+║  > Building autonomous AI agent swarms and tamper-proof dApps        ║
+║  > that run on-chain without asking permission.                      ║
+║                                                                       ║
+║  $ ps -ef | grep "currently"                                         ║
+║  > Campus Ambassador @ HackerRank  — running                         ║
+║  > Shipping AI x Web3 side-projects — running                        ║
+║  > Debugging smart contracts at 2 AM — running                    ↓ ║
+║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -181,6 +217,11 @@ USDT flows to your family when you can't be there — an always-on agent that ke
 
 <div align="center">
 
+<pre>
+Tasks: 8 projects,  3 shipped,  2 in dev,  1 always-on-chain
+Commits: ▲ rising        Load avg: caffeine 0.92, sleep 0.10
+</pre>
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nixon-CSE&show_icons=true&count_private=true&hide_border=false&border_radius=0&border_color=39FF14&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=FF2E9F" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nixon-CSE&layout=compact&hide_border=false&border_radius=0&border_color=39FF14&bg_color=000000&title_color=39FF14&text_color=FFFFFF" />
 
@@ -217,6 +258,18 @@ This repo doesn't render a live "eaten" contribution graph until a small GitHub 
 ## ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ./connect --with=nixon ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 <div align="center">
+
+<pre>
+┌────────────────────────────────┐
+│ ○ ○ ○             chat.exe     │
+├────────────────────────────────┤
+│  😄  let's build something     │
+│      together →                │
+│                       [ Send ] │
+└────────────────────────────────┘
+</pre>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/nixon-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
 <a href="mailto:nixonimmanuelmotha.28csb@licet.ac.in"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" /></a>
