@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D0D,100:39FF14&height=220&section=header&text=NIXON.EXE&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%7C%20Blockchain%20%7C%20AI%20Systems%20Engineer&descAlignY=52&descSize=20&descColor=FF2E9F" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D0D,100:39FF14&height=220&section=header&text=NIXON.EXE&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%7C%20Web3%20%7C%20AI%20Systems%20Engineer&descAlignY=52&descSize=20&descColor=FF2E9F" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=60&background=000000&lines=%3E+booting+Nixon-CSE.exe...;%3E+loading+blockchain+modules...;%3E+loading+AI+agents...;%3E+SYSTEM+READY.+welcome+%F0%9F%91%8B" alt="Typing SVG" />
 
