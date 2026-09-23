@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/OS-RETRO__TERMINAL-FF2E9F?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/RETROBRUT_OS-FF2E9F?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/LOCATION-CHENNAI%2C_IN-00F5FF?style=for-the-badge&labelColor=000000" />
 <img src="https://komarev.com/ghpvc/?username=Nixon-CSE&style=for-the-badge&color=FFE500&labelColor=000000&label=VISITORS" />
 
