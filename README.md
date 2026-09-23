@@ -39,7 +39,9 @@
 │           404             │
 │   sleep_schedule.exe      │
 │      not found            │
-│      [ Go home ]          │
+│      [ Go home ]          |
+│   eat_schedule.exe        |
+|        always ready       |
 └───────────────────────────┘
 </pre>
 
